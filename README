@@ -1,3 +1,3 @@
 Namelist and FORTRAN files for 2023 MWR paper on realistic LES sensitivity in Perdigao
 
-FORTRAN files refer to version 4.4 and changes to implement the horizontal inline momentum budget are highlighted with 'kranke' comments
+FORTRAN files refer to WRF version 4.4; changes to implement the horizontal inline momentum budget are highlighted with 'kranke' comments
